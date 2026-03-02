@@ -6,5 +6,6 @@ c=a;
 a=b;
 b=c;
 printf("%d , %d",a,b);
+print("Hi master");
 
 }
